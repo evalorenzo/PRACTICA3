@@ -1,0 +1,19 @@
+sprint 1: Examina la aplicación: http://competiciones.fgpatinaxe.gal/, ignorando la intranet. 
+
+PUNTOS DÉBILES
+1. Desde el calendario no se puede ver las plantillas de los equipos
+2. Desde las plantillas de los equipos no se puede acceder a la ficha de los jugadores
+3. Desde la clasificación no se pude acceder a las plantillas de los equipos
+4. En general, la infomación está desordenada y desestructurada.
+5. Si encojes la pantalla no se pude visualizar toda la información
+6.En un dispositivo móvil la página no se puede visualizar correctamente.
+7.El diseño de página es antiguo y engorroso.
+
+MEJORAS
+1.Creación de una versión mobile-first para su correcto uso en dispositivos de este tipo.
+
+2.Dispersar un poco la información para mejorar la lectura de los datos.
+
+3.Mejorar el diseño de la página web, ya que, está un poco anticuado y es poco atractivo.
+
+4.Arreglas los botones y pestañas que no funcionan.
