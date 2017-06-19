@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
 }
-#banner {
-  width: 50%; /* el ancho del banner */
-  float:left;  /* mandarlo a la derecha */
- margin-left:10%;
+
+div {
+  width: 100%;
+  float:left;  
+  margin-left:12%;
 } 
 
 header h1{

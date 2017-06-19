@@ -2,10 +2,9 @@
     margin: 0;
     padding: 0;
 }
-#banner {
-  background-size:cover;
-  width: 100%; /* el ancho del banner */
-}        
+img {
+	max‐width: 100%;
+}   
 body {
     width: 100%;
     font-family: 'Raleway', sans-serif;
