@@ -26,3 +26,7 @@ normas WAI-ARIA.
 2.Debemos añadir roles
 3.Debemos quitar roles en algunos casos de redundancia.EJ:<footer role="contentinfo">
 4. Proporcionar texto alternativo.(alt / longdesc)
+5.Navegación mediante el teclado:
+  Por medio del teclade podemos navegar entre los diferentes elementos de una web.
+  Hemos comprobado que gracias a las teclas “TAB”, “Enter” y “Space” podemos navegar
+  perfectamente por la interfaz.
