@@ -4,7 +4,7 @@
 }
 #banner {
   width: 50%; /* el ancho del banner */
-  float: left;  /* mandarlo a la derecha */
+  float:left;  /* mandarlo a la derecha */
  margin-left:10%;
 } 
 
